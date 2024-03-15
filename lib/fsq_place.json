@@ -1,0 +1,1011 @@
+{
+    "fsq_id": "40f86c00f964a520bd0a1fe3",
+    "categories": [
+      {
+        "id": 10001,
+        "name": "Amusement Park",
+        "short_name": "Amusement Park",
+        "plural_name": "Amusement Parks",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [
+      {
+        "id": "b2d4bdff-6a63-4d1f-83c4-07e9f890751a",
+        "name": "Disney Resorts and Parks"
+      }
+    ],
+    "description": "Disneyland Park is a theme park located in Anaheim, Califronia. It is owned and operated by the Walt Disney Parks and Resorts division of the Walt Disney Company. It is the only theme park to be designed and built under the direct supervision of Walt Disney.",
+    "features": {
+      "payment": {
+        "credit_cards": {
+          "accepts_credit_cards": true,
+          "amex": true,
+          "discover": true,
+          "visa": true,
+          "master_card": true
+        },
+        "digital_wallet": {
+          "accepts_nfc": true
+        }
+      },
+      "food_and_drink": {
+        "alcohol": {
+          "beer": true,
+          "wine": true
+        }
+      },
+      "services": {
+        "dine_in": {
+          "reservations": true
+        }
+      },
+      "amenities": {
+        "parking": {
+          "parking": true
+        },
+        "wifi": "f"
+      },
+      "attributes": {
+        "families_popular": "Great"
+      }
+    },
+    "geocodes": {
+      "main": {
+        "latitude": 33.808461,
+        "longitude": -117.919306
+      },
+      "roof": {
+        "latitude": 33.808461,
+        "longitude": -117.919306
+      }
+    },
+    "hours": {
+      "display": "Mon 9:00 AM-12:00 AM; Tue-Wed 9:00 AM-10:00 PM; Thu 9:00 AM-12:00 AM; Fri 8:00 AM-12:00 AM; Sat 9:00 AM-12:00 AM; Sun 8:00 AM-12:00 AM",
+      "is_local_holiday": false,
+      "open_now": false,
+      "regular": [
+        {
+          "close": "+0000",
+          "day": 1,
+          "open": "0900"
+        },
+        {
+          "close": "2200",
+          "day": 2,
+          "open": "0900"
+        },
+        {
+          "close": "2200",
+          "day": 3,
+          "open": "0900"
+        },
+        {
+          "close": "+0000",
+          "day": 4,
+          "open": "0900"
+        },
+        {
+          "close": "+0000",
+          "day": 5,
+          "open": "0800"
+        },
+        {
+          "close": "+0000",
+          "day": 6,
+          "open": "0900"
+        },
+        {
+          "close": "+0000",
+          "day": 7,
+          "open": "0800"
+        }
+      ]
+    },
+    "link": "/v3/places/40f86c00f964a520bd0a1fe3",
+    "location": {
+      "address": "1313 S Disneyland Dr",
+      "census_block": "060599800001001",
+      "country": "US",
+      "cross_street": "btwn Ball Rd & Katella Ave",
+      "dma": "Los Angeles",
+      "formatted_address": "1313 S Disneyland Dr (btwn Ball Rd & Katella Ave), أنهايم، كاليفورنيا, CA 92802",
+      "locality": "أنهايم، كاليفورنيا",
+      "postcode": "92802",
+      "region": "CA"
+    },
+    "name": "ديزني لاند (Disneyland Park)",
+    "photos": [
+      {
+        "id": "5520bc17498efdc0119423e4",
+        "created_at": "2015-04-05T04:37:43.000Z",
+        "prefix": "https://fastly.4sqi.net/img/general/",
+        "suffix": "/77881821_u6gkPZZMKBWoIZMv5E-HcxNjj1HZxMXcvvUTZCS59rw.jpg",
+        "width": 1920,
+        "height": 1440
+      },
+      {
+        "id": "5a30968be185f360e11bbf64",
+        "created_at": "2017-12-13T02:55:07.000Z",
+        "prefix": "https://fastly.4sqi.net/img/general/",
+        "suffix": "/97135265_0UBO3oKe8nZWAIKpB243iKODYcL3G1DAQK8BbGpskNQ.jpg",
+        "width": 1079,
+        "height": 1920
+      },
+      {
+        "id": "5a924172d7627e0a8d3a7d5e",
+        "created_at": "2018-02-25T04:54:10.000Z",
+        "prefix": "https://fastly.4sqi.net/img/general/",
+        "suffix": "/7146_6UXA6fdWxZZTO9DDolF2xKzok7kM66SLqF-_AaVJlBk.jpg",
+        "width": 1920,
+        "height": 1440
+      },
+      {
+        "id": "61faee4911e2f44e0c0d238d",
+        "created_at": "2022-02-02T20:49:13.000Z",
+        "prefix": "https://fastly.4sqi.net/img/general/",
+        "suffix": "/15702187_kZjJdcXR8jCVEhaW3I9PPS9YvkjIJ1tv_-6bbqFLyT4.jpg",
+        "width": 1920,
+        "height": 1440
+      },
+      {
+        "id": "5ba7d00d25ecca002c5ee442",
+        "created_at": "2018-09-23T17:40:29.000Z",
+        "prefix": "https://fastly.4sqi.net/img/general/",
+        "suffix": "/57917_bQG8Q9n-rzmeKacSktF6hCunq5cSbeSJ0b0fJH4j9_Y.jpg",
+        "width": 1920,
+        "height": 1440
+      }
+    ],
+    "popularity": 0.9999759187015363,
+    "price": 3,
+    "rating": 9.4,
+    "related_places": {
+      "parent": {
+        "fsq_id": "538d1828498e34aecff60fde",
+        "categories": [
+          {
+            "id": 19014,
+            "name": "Hotel",
+            "short_name": "Hotel",
+            "plural_name": "Hotels",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 19018,
+            "name": "Resort",
+            "short_name": "Resort",
+            "plural_name": "Resorts",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/resort_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "name": "Disneyland Resort"
+      },
+      "children": [
+        {
+          "fsq_id": "5d2197c63e57ca0023c680dc",
+          "categories": [
+            {
+              "id": 16020,
+              "name": "Historic and Protected Site",
+              "short_name": "Historic and Protected Site",
+              "plural_name": "Historic and Protected Sites",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Dioramasaur"
+        },
+        {
+          "fsq_id": "58b4a71e01f07753b2e17470",
+          "categories": [
+            {
+              "id": 13031,
+              "name": "Burger Joint",
+              "short_name": "Burgers",
+              "plural_name": "Burger Joints",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13064,
+              "name": "Pizzeria",
+              "short_name": "Pizza",
+              "plural_name": "Pizzerias",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13148,
+              "name": "French Restaurant",
+              "short_name": "French",
+              "plural_name": "French Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Red Rose Taverne"
+        },
+        {
+          "fsq_id": "4b8eca23f964a5203f3733e3",
+          "categories": [
+            {
+              "id": 17089,
+              "name": "Gift Store",
+              "short_name": "Gift Store",
+              "plural_name": "Gift Stores",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/giftshop_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 17091,
+              "name": "Hobby Store",
+              "short_name": "Hobbies",
+              "plural_name": "Hobby Stores",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/hobbyshop_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 19000,
+              "name": "Travel and Transportation",
+              "short_name": "Travel and Transportation",
+              "plural_name": "Travel and Transportation",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Westward Ho Trading Company"
+        },
+        {
+          "fsq_id": "47f80b05f964a520bf4e1fe3",
+          "categories": [
+            {
+              "id": 10001,
+              "name": "Amusement Park",
+              "short_name": "Amusement Park",
+              "plural_name": "Amusement Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Fantasyland"
+        },
+        {
+          "fsq_id": "63d4ba0679ba7c42da4c93f3",
+          "categories": [
+            {
+              "id": 10058,
+              "name": "Attraction",
+              "short_name": "Attraction",
+              "plural_name": "Attractions",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Wondrous Journeys"
+        },
+        {
+          "fsq_id": "47f81332f964a520c14e1fe3",
+          "categories": [
+            {
+              "id": 10001,
+              "name": "Amusement Park",
+              "short_name": "Amusement Park",
+              "plural_name": "Amusement Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Mickey's Toontown"
+        },
+        {
+          "fsq_id": "47f809e0f964a520bb4e1fe3",
+          "categories": [
+            {
+              "id": 10001,
+              "name": "Amusement Park",
+              "short_name": "Amusement Park",
+              "plural_name": "Amusement Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Critter Country"
+        },
+        {
+          "fsq_id": "4aad8a6ef964a520cc6020e3",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 19018,
+              "name": "Resort",
+              "short_name": "Resort",
+              "plural_name": "Resorts",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/resort_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Disney's Paradise Pier Hotel"
+        },
+        {
+          "fsq_id": "47f69cabf964a520b44e1fe3",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Disneyland Hotel"
+        },
+        {
+          "fsq_id": "5abd20cfa6fe4d4d139940a9",
+          "categories": [
+            {
+              "id": 10001,
+              "name": "Amusement Park",
+              "short_name": "Amusement Park",
+              "plural_name": "Amusement Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Star Wars: Galaxy's Edge"
+        },
+        {
+          "fsq_id": "4bcc77a6cc8cd13a25edc0cf",
+          "categories": [
+            {
+              "id": 11124,
+              "name": "Office",
+              "short_name": "Office",
+              "plural_name": "Offices",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Cast Service Center"
+        },
+        {
+          "fsq_id": "4b7a3206f964a5200c262fe3",
+          "categories": [
+            {
+              "id": 11135,
+              "name": "Pet Sitting and Boarding Service",
+              "short_name": "Pet Sitting and Boarding Service",
+              "plural_name": "Pet Sitting and Boarding Services",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/dogrun_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Disneyland Kennel Club"
+        },
+        {
+          "fsq_id": "47f80a8cf964a520bc4e1fe3",
+          "categories": [
+            {
+              "id": 10001,
+              "name": "Amusement Park",
+              "short_name": "Amusement Park",
+              "plural_name": "Amusement Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13040,
+              "name": "Dessert Shop",
+              "short_name": "Desserts",
+              "plural_name": "Dessert Shops",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13145,
+              "name": "Fast Food Restaurant",
+              "short_name": "Fast Food",
+              "plural_name": "Fast Food Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Tomorrowland"
+        },
+        {
+          "fsq_id": "502b2480e4b057455a68c3c6",
+          "categories": [
+            {
+              "id": 10001,
+              "name": "Amusement Park",
+              "short_name": "Amusement Park",
+              "plural_name": "Amusement Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 10001,
+              "name": "Amusement Park",
+              "short_name": "Amusement Park",
+              "plural_name": "Amusement Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Magical Fireworks Spectacular"
+        },
+        {
+          "fsq_id": "47f80f73f964a520c04e1fe3",
+          "categories": [
+            {
+              "id": 10001,
+              "name": "Amusement Park",
+              "short_name": "Amusement Park",
+              "plural_name": "Amusement Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Adventureland"
+        },
+        {
+          "fsq_id": "4afb1a0ff964a5202c1b22e3",
+          "categories": [
+            {
+              "id": 13034,
+              "name": "Café",
+              "short_name": "Café",
+              "plural_name": "Cafés",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13068,
+              "name": "American Restaurant",
+              "short_name": "American",
+              "plural_name": "American Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13095,
+              "name": "Cajun and Creole Restaurant",
+              "short_name": "Cajun / Creole",
+              "plural_name": "Cajun and Creole Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cajun_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Cafe Orleans"
+        },
+        {
+          "fsq_id": "45db8e2df964a520fc421fe3",
+          "categories": [
+            {
+              "id": 19014,
+              "name": "Hotel",
+              "short_name": "Hotel",
+              "plural_name": "Hotels",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Disney's Grand Californian Hotel & Spa"
+        },
+        {
+          "fsq_id": "47f80a96f964a520bd4e1fe3",
+          "categories": [
+            {
+              "id": 10001,
+              "name": "Amusement Park",
+              "short_name": "Amusement Park",
+              "plural_name": "Amusement Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Frontierland"
+        },
+        {
+          "fsq_id": "47f63db6f964a520a84e1fe3",
+          "categories": [
+            {
+              "id": 13095,
+              "name": "Cajun and Creole Restaurant",
+              "short_name": "Cajun / Creole",
+              "plural_name": "Cajun and Creole Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cajun_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Blue Bayou Restaurant"
+        },
+        {
+          "fsq_id": "5a52b98b0d173f4b97b0b348",
+          "categories": [
+            {
+              "id": 10001,
+              "name": "Amusement Park",
+              "short_name": "Amusement Park",
+              "plural_name": "Amusement Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Disneyland Security Gates"
+        },
+        {
+          "fsq_id": "47f809c6f964a520b94e1fe3",
+          "categories": [
+            {
+              "id": 10001,
+              "name": "Amusement Park",
+              "short_name": "Amusement Park",
+              "plural_name": "Amusement Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13034,
+              "name": "Café",
+              "short_name": "Café",
+              "plural_name": "Cafés",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13065,
+              "name": "Restaurant",
+              "short_name": "Restaurant",
+              "plural_name": "Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "New Orleans Square"
+        },
+        {
+          "fsq_id": "47f80aa8f964a520be4e1fe3",
+          "categories": [
+            {
+              "id": 10001,
+              "name": "Amusement Park",
+              "short_name": "Amusement Park",
+              "plural_name": "Amusement Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13065,
+              "name": "Restaurant",
+              "short_name": "Restaurant",
+              "plural_name": "Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Main Street, USA"
+        },
+        {
+          "fsq_id": "49bd98b7f964a52088541fe3",
+          "categories": [
+            {
+              "id": 11033,
+              "name": "Employment Agency",
+              "short_name": "Employment Agency",
+              "plural_name": "Employment Agencies",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Team Disney Anaheim"
+        },
+        {
+          "fsq_id": "5c1a5cce64c8e1002c28a081",
+          "categories": [
+            {
+              "id": 13072,
+              "name": "Asian Restaurant",
+              "short_name": "Asian",
+              "plural_name": "Asian Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Tropical Hideaway"
+        },
+        {
+          "fsq_id": "503d818be4b0786e525976b5",
+          "categories": [
+            {
+              "id": 16026,
+              "name": "Monument",
+              "short_name": "Monument",
+              "plural_name": "Monuments",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/government_monument_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Floral Mickey"
+        },
+        {
+          "fsq_id": "4ac95372f964a520abbf20e3",
+          "categories": [
+            {
+              "id": 19047,
+              "name": "Rail Station",
+              "short_name": "Rail Station",
+              "plural_name": "Rail Stations",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/trainstation_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Disneyland Monorail"
+        },
+        {
+          "fsq_id": "4ce55a195bf68cfa65613c17",
+          "categories": [
+            {
+              "id": 11130,
+              "name": "Office Building",
+              "short_name": "Office Building",
+              "plural_name": "Office Buildings",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Guest Services Building"
+        },
+        {
+          "fsq_id": "533b2b8c498ee3b05e4520e5",
+          "categories": [
+            {
+              "id": 16000,
+              "name": "Landmarks and Outdoors",
+              "short_name": "Landmarks and Outdoors",
+              "plural_name": "Landmarks and Outdoors",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/default_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "The Central Hub"
+        },
+        {
+          "fsq_id": "598f1623419a9e6164c79676",
+          "categories": [
+            {
+              "id": 10001,
+              "name": "Amusement Park",
+              "short_name": "Amusement Park",
+              "plural_name": "Amusement Parks",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Disneyland Rope Drop"
+        }
+      ]
+    },
+    "social_media": {
+      "facebook_id": "11081890741",
+      "instagram": "disneyland",
+      "twitter": "disneyland"
+    },
+    "stats": {
+      "total_photos": 23741,
+      "total_ratings": 12342,
+      "total_tips": 1769
+    },
+    "tastes": [
+      "restaurants",
+      "bar",
+      "staff",
+      "alcohol",
+      "coffee",
+      "chicken",
+      "breakfast food",
+      "fruit",
+      "pricey",
+      "scenic views",
+      "cheese",
+      "music",
+      "well",
+      "lunch",
+      "brunch food",
+      "hotel",
+      "town",
+      "chocolate",
+      "ice cream",
+      "tea",
+      "cake",
+      "beach",
+      "parking",
+      "park",
+      "city",
+      "espresso drinks",
+      "spicy food",
+      "eggs",
+      "outdoor seating",
+      "lines",
+      "liquor",
+      "milk",
+      "dinner",
+      "books",
+      "chips",
+      "quiet",
+      "fair",
+      "restrooms",
+      "office",
+      "performances",
+      "classes",
+      "casual",
+      "all you can eat",
+      "crowded",
+      "movies",
+      "sports",
+      "potatoes",
+      "comfortable",
+      "market",
+      "trains",
+      "happy hour",
+      "road",
+      "cute",
+      "discounts",
+      "bus",
+      "takes reservations",
+      "clothing",
+      "cookies",
+      "snacks",
+      "tours",
+      "events",
+      "bakeries",
+      "museums",
+      "tourism",
+      "neighborhood",
+      "bananas",
+      "short",
+      "dancing",
+      "gifts",
+      "river",
+      "theaters",
+      "organic",
+      "shoes",
+      "spacious",
+      "oranges",
+      "dresses",
+      "loud",
+      "honey",
+      "Plaza",
+      "Bay",
+      "country",
+      "bridge",
+      "corn",
+      "nuts",
+      "trees",
+      "apartments",
+      "fields",
+      "fast food",
+      "tortillas",
+      "cupcakes",
+      "cinnamon",
+      "Christmas",
+      "hills",
+      "resorts",
+      "pumpkin",
+      "prints",
+      "air conditioning",
+      "University",
+      "pickles",
+      "candy",
+      "pearls",
+      "popcorn",
+      "tracks",
+      "long waits",
+      "fountains",
+      "construction",
+      "cinema",
+      "pineapple",
+      "cherries",
+      "festivities",
+      "Coke",
+      "photography",
+      "picnics",
+      "attractions",
+      "toys",
+      "County",
+      "roses",
+      "films",
+      "pretzels",
+      "cameras",
+      "Inn",
+      "people watching",
+      "booths",
+      "castles",
+      "shirts",
+      "cones",
+      "port",
+      "cream cheese",
+      "jackets",
+      "palaces",
+      "benches",
+      "bright",
+      "bugs",
+      "harbors",
+      "s'mores",
+      "factory",
+      "conferences",
+      "costumes",
+      "cruise",
+      "fritters",
+      "structures",
+      "high school",
+      "halloween",
+      "churros",
+      "bears",
+      "fireworks",
+      "ghost",
+      "mouse",
+      "swings",
+      "rabbit",
+      "trams",
+      "gumbo",
+      "conventions",
+      "chimichangas",
+      "rat",
+      "parades",
+      "roller coasters",
+      "sunscreen",
+      "gambling",
+      "turkey legs",
+      "tangy",
+      "corn dogs",
+      "bread bowls",
+      "theme parks",
+      "canoes",
+      "lollipops",
+      "taqueria",
+      "Monte Cristo sandwiches",
+      "caramel apples",
+      "horseshoes",
+      "winter season",
+      "powdered sugar",
+      "private club",
+      "beef skewers",
+      "goth",
+      "family holidays",
+      "thrill rides",
+      "special brews",
+      "creamy pesto",
+      "berry sauce",
+      "fast pass",
+      "fastpass",
+      "space mountain"
+    ],
+    "tel": "(714) 781-4565",
+    "timezone": "America/Los_Angeles",
+    "tips": [
+      {
+        "created_at": "2024-01-24T17:04:02.000Z",
+        "text": "Dreams come true"
+      },
+      {
+        "created_at": "2024-01-11T21:52:18.000Z",
+        "text": "I’m at Disneyland!!"
+      },
+      {
+        "created_at": "2023-10-14T03:27:10.000Z",
+        "text": "오픈런과 지니플러스 구매 필수. 스타워즈같은 어트랙션은 지니플러스 외에 별도 패스트트랙을 또 사야함. 그럼에도 불구하고 너무재밌음"
+      },
+      {
+        "created_at": "2023-06-27T17:56:47.000Z",
+        "text": "Went here with my younger cousins (they're about a decade younger), it was fine. The only part that sucked was how expensive it was and how long the lines were. But we had fun."
+      },
+      {
+        "created_at": "2023-06-21T05:30:28.000Z",
+        "text": "Come early. Lots of people"
+      }
+    ],
+    "verified": true,
+    "website": "https://disneyparks.disney.go.com/disney-vacations/?ef_id=EAIaIQobChMIkMrCsaPW5QIVUD0MCh1aBwYKEAAYASAAEgLXdPD_BwE:G:s&s_kwcid=AL!5053!3!386704989753!b!!g!!%2Bwalt%20%2Bdisney%20%2Bresorts&CMP=KNC-FY20_DPK_ACT_DOME_PPFL_RES_RSG_Resorts_BMM_RSA|G|4191000.WW.AM.01.02|MZVEKX7|BR|386704989753&keyword_id=kwd-18341185223|dc|%2Bwalt%20%2Bdisney%20%2Bresorts|386704989753|b|5053:3|&gclid=EAIaIQobChMIkMrCsaPW5QIVUD0MCh1aBwYKEAAYASAAEgLXdPD_BwE"
+  }
